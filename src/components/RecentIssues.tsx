@@ -1,5 +1,4 @@
-import React from 'react';
-import { Calendar, ArrowRight, ExternalLink, Tag, Cpu, Brain, Code } from 'lucide-react';
+import { Calendar, ArrowRight, ExternalLink, Cpu, Brain, Code } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const RecentIssues = () => {

@@ -1,5 +1,5 @@
-import React from 'react';
-import { Zap, Twitter, Linkedin, Github, Mail, ExternalLink } from 'lucide-react';
+
+import { Zap, Twitter, Linkedin, Github, ExternalLink } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const Footer = () => {
